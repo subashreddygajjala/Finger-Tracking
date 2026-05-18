@@ -24,7 +24,7 @@ Due to strict browser security policies enforcing HTTPS/localhost constraints fo
    ```bash
    git clone <your-remote-repo-url>
    cd ar-hand-tracking
-   ```
+   ``````
 
 2. Start a local HTTP server:
    ```bash
